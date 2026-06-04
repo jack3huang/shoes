@@ -1,0 +1,186 @@
+[
+  {
+    "categoryId": "C002",
+    "categoryName": "Belts",
+    "slug": "belts",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "B2B belt product category covering belt styles from the client catalog.",
+    "relatedProductIds": [
+      "P059",
+      "P060",
+      "P061",
+      "P062",
+      "P063",
+      "P064",
+      "P065",
+      "P066",
+      "P067",
+      "P068"
+    ],
+    "displayOrder": 1
+  },
+  {
+    "categoryId": "C003",
+    "categoryName": "Oxford Shoes",
+    "slug": "oxford-shoes",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's formal lace-up shoes category for Oxford-style catalog organization.",
+    "relatedProductIds": [
+      "P001",
+      "P008",
+      "P015",
+      "P022",
+      "P029",
+      "P036",
+      "P050",
+      "P057",
+      "P074",
+      "P081"
+    ],
+    "displayOrder": 2
+  },
+  {
+    "categoryId": "C004",
+    "categoryName": "Derby Shoes",
+    "slug": "derby-shoes",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's open-lacing dress shoes category for Derby-style catalog organization.",
+    "relatedProductIds": [
+      "P002",
+      "P009",
+      "P016",
+      "P023",
+      "P030",
+      "P037",
+      "P051",
+      "P058",
+      "P075",
+      "P082"
+    ],
+    "displayOrder": 3
+  },
+  {
+    "categoryId": "C005",
+    "categoryName": "Monk Strap Shoes",
+    "slug": "monk-strap-shoes",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's buckle-strap dress shoes category for Monk Strap-style catalog organization.",
+    "relatedProductIds": [
+      "P017",
+      "P024",
+      "P031",
+      "P038",
+      "P052",
+      "P069",
+      "P076",
+      "P083"
+    ],
+    "displayOrder": 4
+  },
+  {
+    "categoryId": "C006",
+    "categoryName": "Loafers",
+    "slug": "loafers",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's slip-on dress and smart casual shoes category.",
+    "relatedProductIds": [
+      "P018",
+      "P025",
+      "P032",
+      "P039",
+      "P053",
+      "P070",
+      "P077",
+      "P084"
+    ],
+    "displayOrder": 5
+  },
+  {
+    "categoryId": "C007",
+    "categoryName": "Chelsea Boots",
+    "slug": "chelsea-boots",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's elastic-side ankle boots category.",
+    "relatedProductIds": [
+      "P005",
+      "P012",
+      "P019",
+      "P026",
+      "P033",
+      "P040",
+      "P054",
+      "P071",
+      "P078",
+      "P085"
+    ],
+    "displayOrder": 6
+  },
+  {
+    "categoryId": "C008",
+    "categoryName": "Dress Boots",
+    "slug": "dress-boots",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's leather dress boots and boot-style shoes category.",
+    "relatedProductIds": [
+      "P006",
+      "P013",
+      "P020",
+      "P027",
+      "P034",
+      "P041",
+      "P055",
+      "P072",
+      "P079"
+    ],
+    "displayOrder": 7
+  },
+  {
+    "categoryId": "C009",
+    "categoryName": "Brogue Shoes",
+    "slug": "brogue-shoes",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Men's brogue-style shoes category. Brogue can also be a style detail, so client review is recommended.",
+    "relatedProductIds": [
+      "P004",
+      "P007",
+      "P011",
+      "P014",
+      "P021",
+      "P028",
+      "P035",
+      "P042",
+      "P056",
+      "P073",
+      "P080"
+    ],
+    "displayOrder": 8
+  },
+  {
+    "categoryId": "C001",
+    "categoryName": "Shoes",
+    "slug": "shoes",
+    "parentCategoryId": "",
+    "level": 1,
+    "description": "Fallback shoes category for shoe products that are not yet confirmed into a specific men's shoe style.",
+    "relatedProductIds": [
+      "P003",
+      "P010",
+      "P043",
+      "P044",
+      "P045",
+      "P046",
+      "P047",
+      "P048",
+      "P049"
+    ],
+    "displayOrder": 9
+  }
+]

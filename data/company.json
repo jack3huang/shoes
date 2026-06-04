@@ -1,0 +1,58 @@
+{
+  "companyName": "GUANGZHOU YU SHI ZHU LEATHER LIMITED",
+  "brandName": "YSZ（推测，来源：产品型号统一前缀和旧站标题 yushizhu leather）",
+  "intro": "YU SHI ZHU LEATHER LIMITED is described on the old website as a trading company mainly providing shoes and export service. The website also introduces belt production capability from a Yiwu belt factory source.",
+  "mainBusiness": [
+    "shoes export service",
+    "belts",
+    "leather/PU/PVC/neon/metal/weave belts"
+  ],
+  "coreProducts": [
+    "men's shoes",
+    "children's shoes",
+    "men's belts",
+    "lady belts"
+  ],
+  "contact": {
+    "address": "ROOM 529, HUAXI BUILDING, NO.3 WANGTING ROAD, XINHUA STREET, HUADU DISTRICT, GUANGZHOU CITY, CHINA",
+    "phone": "0086-18988990562",
+    "mobile": "0086-18988990562",
+    "fax": "缺失",
+    "email": "shoes@yushizhuleather.cn",
+    "alternateEmail": "yushizhuleather1@163.com（mailto 空链接中出现，需确认是否仍使用）",
+    "whatsapp": "缺失"
+  },
+  "certificates": [
+    "缺失"
+  ],
+  "factoryStrength": [
+    "Shoes: old website says cooperative factories are mainly from Guangzhou, Foshan and other places, with many years of cooperation.",
+    "Belts: old website says belt factory has many years of production experience, technical capability, advanced machines and management team.",
+    "Belts: old website says usually can produce 5000 pcs belts per day."
+  ],
+  "oemOdm": "未明确写 OEM/ODM；belt introduction says can make as per customers samples,需客户确认 OEM/ODM 范围",
+  "currentMarkets": [
+    "Europe",
+    "America",
+    "South Africa",
+    "Australia"
+  ],
+  "sourceUrls": [
+    "http://www.yszleather.com/en/about_1.asp",
+    "http://www.yszleather.com/en/about_2.asp",
+    "http://www.yszleather.com/en/contact.asp",
+    "http://www.yszleather.com/en/products.asp"
+  ],
+  "missingInfo": [
+    "formal company intro in polished English",
+    "logo file",
+    "factory photos",
+    "certificates",
+    "WhatsApp",
+    "MOQ and wholesale policy",
+    "packaging and delivery terms",
+    "payment terms",
+    "confirmed OEM/ODM policy",
+    "target market priority"
+  ]
+}
