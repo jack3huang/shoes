@@ -3,6 +3,7 @@
 Generated routes: 168
 Displayable products: 78
 Categories: 9
+Updated: bilingual breadcrumbs and language-switch path/query preservation.
 
 Included:
 - Static HTML pages only
